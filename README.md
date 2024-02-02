@@ -1,4 +1,5 @@
 # Stroke Prediction
+By Ashik Sathiya and Tanav Thanjavuru
 
 ## Overview
 This project focuses on predicting the likelihood of stroke in individuals based on various health indicators and demographic information. It leverages a dataset containing health records and employs machine learning techniques to assess stroke risk.
