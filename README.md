@@ -32,6 +32,9 @@ Open the Stroke_Prediction.ipynb notebook in Jupyter Notebook or JupyterLab.
 Follow the instructions in the Stroke_Prediction.ipynb notebook, which are divided into sections:
 
 Data Loading and Preprocessing: Loading the dataset and preparing it for analysis.
+
 Exploratory Data Analysis (EDA): Analyzing the data to understand the distribution of variables and relationships between them.
+
 Model Building: Building and training machine learning models to predict stroke risk.
+
 Model Evaluation: Evaluating the performance of the models using metrics such as accuracy, precision, recall, and F1-score.
